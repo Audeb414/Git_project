@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//il s'agit ici d'un programme qui calcule la valeur d'une suite
 float suite(int n){
 	int i;
 	float uo;
